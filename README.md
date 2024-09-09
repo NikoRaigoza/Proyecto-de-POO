@@ -1,5 +1,5 @@
 # OOP Project by
 
 - Yan Carlos Blandon Salazar
-- Nicolas Raigoza Taborda
-- Juan Sebastian Zuluaga
+- Nicolás Raigoza Taborda
+- Sebastián Gómez Sepúlveda
