@@ -1,1 +1,1 @@
-# Proyecto-de-POO
+# Proyecto de POO
